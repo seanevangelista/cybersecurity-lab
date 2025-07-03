@@ -1,5 +1,5 @@
 
-# home Cybersecurity Lab Setup
+# Home Cybersecurity Lab Setup
 
 This lab is designed for hands on training in ethical hacking, network
 security, and cybersecurity ops. The environment is isolated from
